@@ -25,5 +25,5 @@ print("***FIM **************************")
 print("*********************************")
 
 imprime_time()
-
+imprime_time()
 imprime_time()
